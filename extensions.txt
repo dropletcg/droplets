@@ -1,3 +1,4 @@
 https://github.com/Gourieff/sd-webui-roop-nsfw.git
 https://github.com/Physton/sd-webui-prompt-all-in-one.git
 https://github.com/Bing-su/adetailer.git
+https://github.com/yankooliveira/sd-webui-photopea-embed
