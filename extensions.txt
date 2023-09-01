@@ -1,4 +1,3 @@
-https://github.com/s0md3v/sd-webui-roop
 https://github.com/Physton/sd-webui-prompt-all-in-one.git
 https://github.com/Bing-su/adetailer.git
 https://github.com/yankooliveira/sd-webui-photopea-embed
@@ -6,5 +5,4 @@ https://github.com/Mikubill/sd-webui-controlnet.git
 https://github.com/huchenlei/sd-webui-openpose-editor
 https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
 https://github.com/LEv145/--sd-webui-ar-plus
-https://github.com/ahgsql/StyleSelectorXL
-https://github.com/glucauze/sd-webui-faceswaplab
+https://github.com/Gourieff/sd-webui-reactor
