@@ -4,5 +4,4 @@ https://github.com/yankooliveira/sd-webui-photopea-embed
 https://github.com/Mikubill/sd-webui-controlnet.git
 https://github.com/huchenlei/sd-webui-openpose-editor
 https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
-https://github.com/LEv145/--sd-webui-ar-plus
 https://github.com/Gourieff/sd-webui-reactor
