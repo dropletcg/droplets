@@ -5,3 +5,4 @@ https://github.com/Mikubill/sd-webui-controlnet.git
 https://github.com/huchenlei/sd-webui-openpose-editor
 https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
 https://github.com/Gourieff/sd-webui-reactor
+https://github.com/viyiviyi/stable-diffusion-webui-zoomimage
