@@ -7,3 +7,4 @@ https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
 https://github.com/Gourieff/sd-webui-reactor
 https://github.com/viyiviyi/stable-diffusion-webui-zoomimage
 https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris
+https://github.com/kex0/batch-face-swap
