@@ -6,4 +6,4 @@ https://github.com/huchenlei/sd-webui-openpose-editor
 https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
 https://github.com/Gourieff/sd-webui-reactor
 https://github.com/viyiviyi/stable-diffusion-webui-zoomimage
-https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git
+https://github.com/alemelis/sd-webui-ar
