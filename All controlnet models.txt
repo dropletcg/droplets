@@ -1,4 +1,9 @@
-    "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_ip2p.pth": "control_v11e_sd15_ip2p.pth",
+https://huggingface.co/lllyasviel/sd_control_collection/tree/main
+https://huggingface.co/h94/IP-Adapter/tree/main/models
+
+
+
+"https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_ip2p.pth": "control_v11e_sd15_ip2p.pth",
     "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_shuffle.pth": "control_v11e_sd15_shuffle.pth",
     "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1e_sd15_tile.pth": "control_v11f1e_sd15_tile.pth",
     "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth.pth": "control_v11f1p_sd15_depth.pth",
